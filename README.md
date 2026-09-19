@@ -1,21 +1,18 @@
-# NekomiRyan’s GitHub
+# NekomiRyan
 
-Hi! I’m a developer who loves coding, Minecraft, and anime. I build creative, efficient projects that are both fun and polished.  
+Developer interested in software engineering, web development, open source, and systems.
 
-## 🔹 Recent Projects
-- **NameMaster** – Offline-friendly web app for learning names I made
-- **Minecraft Clients** – A very useful client for Minecraft Java 
-- **The Forgotten Realm** – A fully customizable text based game
+I build projects across JavaScript, TypeScript, Python, Java, React, and macOS, with a focus on practical and well-designed software.
 
-## 🔹 Skills
-- Languages: JavaScript, TypeScript, Python, Java, Batch, Bash
-- Web: React, Node.js, Express, HTML, CSS, JavaScript
-- Hardware: Raspberry Pi, LEGO Robotics, Macbook Pro.
-- Client Making: Infinite Client (Minecraft Java)
+## Projects
 
-## 🔹 Philosophy
-Curiosity helps us learn and grow. Every line of code turns ideas into reality. Work with others, try new things, and enjoy the process of creating and improving.  
+* **NameMaster** — Offline-friendly name learning web app
+* **Infinite Client** — Minecraft Java client development
 
-## 🔹 Contact
-- GitHub: [NekomiRyan](https://github.com/NekomiRyan)
-- Gmail: [zhouryan16@gmail.com](mailto:zhouryan16@gmail.com)
+## Contact
+
+* GitHub: [NekomiRyan](https://github.com/NekomiRyan)
+* Email: [zhouryan16@gmail.com](mailto:zhouryan16@gmail.com)
+* Discord: austinoli
+
+*My views/opinions are my own.*
